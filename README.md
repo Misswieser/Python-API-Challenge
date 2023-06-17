@@ -27,7 +27,7 @@ Use the OpenWeatherMap API to retrieve weather data from the cities list generat
   * Linear regression scatter plot for Northern Hemisphere: Wind Speed (m/s) vs. Latitude 
   * Linear regression scatter plot for Southern Hemisphere: Wind Speed (m/s) vs. Latitude
 
-# The requirements for "Part 2: VacationPy" are the following (30 points)
+# The requirements for "Part 2: VacationPy" are the following 
 
   * Create a map that displays a point for every city in the city_data_df DataFrame 
   * Narrow down the city_data_df DataFrame to find your ideal weather condition 
